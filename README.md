@@ -1,16 +1,20 @@
-### Hi there 👋
+# #Guigui
+quirked up shiny anthro latios goated with the sauce
 
-<!--
-**HastagGuigui/HastagGuigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm #Guigui! / Salut, moi c'est #Guigui!
 
-Here are some ideas to get you started:
+-Game developer during my free time
+-15y/o french high school student
+-Has an anthro latios as his main character
+-Do I look like I have any ideas of what I'm doing with my life?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have my [github stats](https://github.com/jstrieb/github-stats) because why not:
+![](https://github.com/HastagGuigui/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/HastagGuigui/github-stats/blob/master/generated/languages.svg)
+
+![](https://hastagguigui.github.io/assets/images/hastagguiguiLogo.png)
+
+Have a look at my socials!
+[Twitter](https://twitter.com/_GuiguiYT)
+[Youtube](https://www.youtube.com/channel/UCLgu-4-oMqRZVbgwbgzIo7A)
+[Discord](https://discord.com/invite/fyUqHqmujn)
