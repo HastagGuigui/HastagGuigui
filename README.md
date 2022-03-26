@@ -9,6 +9,7 @@ Hi, I'm #Guigui! / Salut, moi c'est #Guigui!
 -Do I look like I have any ideas of what I'm doing with my life?
 
 Have my [github stats](https://github.com/jstrieb/github-stats) because why not:
+
 ![](https://github.com/HastagGuigui/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/HastagGuigui/github-stats/blob/master/generated/languages.svg)
 
