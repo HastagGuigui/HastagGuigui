@@ -16,6 +16,6 @@ Have my [github stats](https://github.com/jstrieb/github-stats) because why not:
 ![](https://hastagguigui.github.io/assets/images/hastagguiguiLogo.png)
 
 Have a look at my socials!
-[Twitter](https://twitter.com/_GuiguiYT)
-[Youtube](https://www.youtube.com/channel/UCLgu-4-oMqRZVbgwbgzIo7A)
-[Discord](https://discord.com/invite/fyUqHqmujn)
+* [Twitter](https://twitter.com/_GuiguiYT)
+* [Youtube](https://www.youtube.com/channel/UCLgu-4-oMqRZVbgwbgzIo7A)
+* [Discord](https://discord.com/invite/fyUqHqmujn)
