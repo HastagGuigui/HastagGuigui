@@ -3,10 +3,10 @@ quirked up shiny anthro latios goated with the sauce
 
 Hi, I'm #Guigui! / Salut, moi c'est #Guigui!
 
--Game developer during my free time
--15y/o french high school student
--Has an anthro latios as his main character
--Do I look like I have any ideas of what I'm doing with my life?
+-Game developer during my free time<br/>
+-15y/o french high school student<br/>
+-Has an anthro latios as his main character<br/>
+-Do I look like I have any ideas of what I'm doing with my life?<br/>
 
 ![](https://hastagguigui.github.io/assets/images/hastagguiguiLogo.png)
 
