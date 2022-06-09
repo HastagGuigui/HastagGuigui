@@ -3,7 +3,7 @@ quirked up shiny anthro latios goated with the sauce
 
 Hi, I'm #Guigui! / Salut, moi c'est #Guigui!
 
--He/Him
+-He/Him<br/>
 -Game developer during my free time<br/>
 -15y/o french high school student<br/>
 -Has an anthro latios as his sona<br/>
