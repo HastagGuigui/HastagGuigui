@@ -23,4 +23,4 @@ Have a look at my socials!
 ## Currently ongoing projects:
 
 - shellrhythm ([V1.0 coming soon!](https://github.com/HastagGuigui/shellrhythm/pull/3))
-- Corrupted Worlds (Temporarily on hold, due to Geometria starting to fall apart)
+- Corrupted Worlds (Being rewritten, again)
