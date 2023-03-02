@@ -22,5 +22,5 @@ Have a look at my socials!
 
 ## Currently ongoing projects:
 
-- shellrhythm ([V1.0 coming soon!](https://github.com/HastagGuigui/shellrhythm/pull/3))
-- Corrupted Worlds (Being rewritten, again)
+- shellrhythm ([V1.0 is out!](https://github.com/HastagGuigui/shellrhythm/releases/))
+- Corrupted Worlds (Being rewritten, again, but I'm getting far)
