@@ -6,7 +6,7 @@ Hi, I'm #Guigui! / Salut, moi c'est #Guigui!
 -he/him<br/>
 -Game developer during my free time<br/>
 -French 🇫🇷<br/>
--17y/o french high school student<br/>
+-Student at Université Bourgogne Europe (Polytech Dijon)<br/>
 -My sona's an [aerion](https://aerocity.site) (custom species i made for fun)<br/>
 -Do I look like I have any ideas of what I'm doing with my life?<br/>
 
